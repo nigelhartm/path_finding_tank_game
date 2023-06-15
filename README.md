@@ -1,6 +1,9 @@
 # path_finding_tank_game
 This one is a bit older project I was working on with some colleagues to practice programming. It consists of GUI with a tank who automatically finds a shortest path in a random generated or self customized labyrinth.
 
+# Build
+You can simply build this project in your Java IDE. The entrance point is contained in the Interface class.
+
 # Initialize new field
 In the menu we provide the option to create and save new game fields. The Field can be initialized empty or random.<br>
 ![alt text](git_img/screen_init.jpg)<br>
